@@ -34,7 +34,7 @@
                 <version>0.9.10</version>
                 <configuration>
                     <to>
-                        <image>dinsceg/greeting-reactive:${project.version}</image>
+                        <image>dinsceg/greeting-reactive</image>
                     </to>
                     <container>
                         <ports>
